@@ -1,0 +1,7 @@
+interface:
+  display_name: "后端/Agent项目选择器"
+  short_description: "按必选模式挑选纯软件后端或业务型 Agent 项目"
+  default_prompt: "Use $backend-agent-project-selector 推荐模式：mixed 帮我找 1 个业务型 Agent 项目和 1 个传统软件后端项目，并输出有技术难点的负责功能与建议简历功能点。"
+
+policy:
+  allow_implicit_invocation: true
