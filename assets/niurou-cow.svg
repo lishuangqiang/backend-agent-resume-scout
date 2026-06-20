@@ -1,0 +1,78 @@
+﻿<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">牛肉项目雷达 mascot</title>
+  <desc id="desc">A playful original cow mascot using a laptop to scout resume-worthy backend and AI Agent projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="105" y1="64" x2="610" y2="505" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4C7"/>
+      <stop offset="0.45" stop-color="#E8F8D4"/>
+      <stop offset="1" stop-color="#EAF2FF"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="258" y1="331" x2="459" y2="463" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="209" y1="372" x2="513" y2="505" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B3440"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="shadow" x="78" y="63" width="574" height="454" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="24"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.25 0 0 0 0 0.19 0 0 0 0 0.11 0 0 0 0.16 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="560" rx="42" fill="#FFFDF7"/>
+  <path d="M130 421C165 316 145 181 246 120C323 74 448 72 526 127C610 186 619 319 574 408C529 497 415 518 315 508C220 499 99 515 130 421Z" fill="url(#bg)"/>
+  <path d="M108 431C182 462 240 405 311 424C372 441 408 499 493 481C556 468 596 431 650 459" stroke="#D9E6BD" stroke-width="34" stroke-linecap="round" opacity="0.62"/>
+  <path d="M85 487C200 513 501 519 635 486" stroke="#D7C4A0" stroke-width="24" stroke-linecap="round" opacity="0.55"/>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="360" cy="489" rx="182" ry="25" fill="#C9B48A" opacity="0.26"/>
+
+    <path d="M238 198C216 160 218 107 251 83C276 64 316 80 326 116C332 137 318 165 293 184L238 198Z" fill="#F8DFC6" stroke="#211B1B" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M482 198C504 160 502 107 469 83C444 64 404 80 394 116C388 137 402 165 427 184L482 198Z" fill="#F8DFC6" stroke="#211B1B" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M269 93C263 51 280 25 295 18C309 41 308 72 287 103" fill="#E7B86F" stroke="#211B1B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M451 93C457 51 440 25 425 18C411 41 412 72 433 103" fill="#E7B86F" stroke="#211B1B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M250 94C263 105 280 110 301 107" stroke="#B78038" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+    <path d="M470 94C457 105 440 110 419 107" stroke="#B78038" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+
+    <path d="M205 225C205 142 271 82 359 82C448 82 515 142 515 225V293C515 392 447 442 360 442C273 442 205 392 205 293V225Z" fill="#FEFEFE" stroke="#211B1B" stroke-width="9"/>
+    <path d="M360 86C423 88 470 121 493 170C469 201 440 211 410 200C382 189 384 143 360 86Z" fill="#2C2928"/>
+    <path d="M238 170C259 111 306 89 360 86C344 127 336 173 302 190C276 203 252 190 238 170Z" fill="#2C2928"/>
+    <path d="M205 260C245 255 270 276 282 317C249 325 223 315 205 293V260Z" fill="#2C2928"/>
+    <path d="M515 260C475 255 450 276 438 317C471 325 497 315 515 293V260Z" fill="#2C2928"/>
+
+    <ellipse cx="360" cy="274" rx="121" ry="78" fill="#FFC8C8" stroke="#211B1B" stroke-width="8"/>
+    <ellipse cx="308" cy="257" rx="13" ry="18" fill="#161313"/>
+    <ellipse cx="412" cy="257" rx="13" ry="18" fill="#161313"/>
+    <circle cx="314" cy="249" r="5" fill="#FFFFFF"/>
+    <circle cx="418" cy="249" r="5" fill="#FFFFFF"/>
+    <ellipse cx="329" cy="306" rx="13" ry="17" fill="#211B1B"/>
+    <ellipse cx="391" cy="306" rx="13" ry="17" fill="#211B1B"/>
+    <path d="M333 342C348 355 372 355 387 342" stroke="#211B1B" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="257" cy="295" r="13" fill="#FF9B9B" opacity="0.55"/>
+    <circle cx="463" cy="295" r="13" fill="#FF9B9B" opacity="0.55"/>
+
+    <path d="M249 358C264 318 306 300 360 300C414 300 456 318 471 358V432H249V358Z" fill="url(#shirt)" stroke="#211B1B" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M329 315H391L379 371H341L329 315Z" fill="#FFE66D" stroke="#211B1B" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M360 315V371" stroke="#211B1B" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+    <path d="M252 355L191 392C173 403 171 431 188 443C203 454 223 448 233 432L268 377" fill="#FEFEFE"/>
+    <path d="M468 355L529 392C547 403 549 431 532 443C517 454 497 448 487 432L452 377" fill="#FEFEFE"/>
+    <path d="M252 355L191 392C173 403 171 431 188 443C203 454 223 448 233 432L268 377" stroke="#211B1B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M468 355L529 392C547 403 549 431 532 443C517 454 497 448 487 432L452 377" stroke="#211B1B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M198 389H522L548 499H172L198 389Z" fill="url(#screen)" stroke="#211B1B" stroke-width="8" stroke-linejoin="round"/>
+    <rect x="154" y="498" width="412" height="34" rx="13" fill="#ECEFF3" stroke="#211B1B" stroke-width="8"/>
+    <circle cx="360" cy="446" r="39" fill="#36404E"/>
+    <path d="M346 446L329 463L346 480" stroke="#3BFFC8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M374 446L391 463L374 480" stroke="#3BFFC8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M366 438L354 488" stroke="#3BFFC8" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
