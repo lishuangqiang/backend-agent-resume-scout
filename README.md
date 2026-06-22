@@ -32,6 +32,7 @@
 </div>
 
 > 程序员牛肉出品：一个面向后端、AI Agent 和求职项目表达的 Codex Skill。它不是项目链接合集，而是“项目筛选 + 源码验证 + 简历表达”的完整工作流。
+>   <p><strong>部分灵感来自于鼠鼠实习妙妙工具，感兴趣的同学可以看看这个项目：https://github.com/LiuMengxuan04/shushu-internship-tool</strong></p>
 
 ---
 
